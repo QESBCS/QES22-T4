@@ -37,7 +37,7 @@ Logistic company:
 
 ### How do I know if other accounts is trustworthy to me?
 
-Level of assurance??? 
+We will classify the users into different groups according to their lvel of assurance.
 
 # System
 
